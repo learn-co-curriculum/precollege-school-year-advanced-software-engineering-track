@@ -1,17 +1,13 @@
-# Day 3
+# Unit 3
 
-## Schedule
-
-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
+## Unit Overview
 
 <table>
     <tr>
-        <td>Time</td>
         <td>Activity</td>
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1UjrHc_Ki_dvtPqWsWxncBCmWmXYqwv6zg1Zvdlnzfnc/edit?usp=sharing"> Deck </a>
@@ -21,7 +17,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>9:15 - 11:30</td>
         <td>Intro to ActiveRecord</td>
         <td>
             Have students follow along the setup using the "Fwitter Code Snippets" on Learn<br>
@@ -37,14 +32,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>11:30 - 12:30</td>
-        <td>Lunch</td>
-        <td>
-            Eat Food
-        </td>
-    </tr>
-    <tr>
-        <td>12:30 - 1:30 </td>
         <td>Fwitter + Group Project + Labs</td>
         <td>
             Students should work on their group project, then Labs:<br>
@@ -59,31 +46,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
         </td>
     </tr>
-    <tr>
-        <td>1:30 - 2:00</td>
-        <td> Improv</td>
-            <a href="https://github.com/learn-co-curriculum/tf-improv-games"> Improv Games</a>
-        <td>
-        
-        </td>
-    </tr>
-    <tr>
-        <td>2:00 - 2:50</td>
-        <td> Group Project + Labs</td>
-        <td>
-            Work on Labs from Before.
-
-        </td>
-    </tr>
    <tr>
         <td>2:50 - 3:00</td>
         <td>Wrap Up</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey"> Micro Feedback </a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/hs-activerecord-costume-store">Code Challenge: ActiveRecord Costume Store</a>
-            <br>
-            Tell the kids they're awesome. 
+            <a href="https://github.com/learn-co-curriculum/hs-activerecord-costume-store">Code Challenge: ActiveRecord Costume Store</a> 
         </td>
     </tr>
 </table>

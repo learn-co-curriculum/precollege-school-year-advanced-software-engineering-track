@@ -1,17 +1,13 @@
-# Day 2
+# Unit 2
 
-## Schedule
-
-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
+## Unit Overview
 
 <table>
     <tr>
-        <td>Time</td>
         <td>Activity</td>
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
         <td>To Dos</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1Idsv-gyHL3ZUVzbLde_Y9h-QyOM8Ve3x0Iy4G_M9P_U/edit?usp=sharing"> Deck</a>
@@ -22,7 +18,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:15</td>
         <td>HTML Forms in Fwitter</td>
         <td>
             <a href="lectures/fwitter_forms/LECTURE.md">Lecture Guides: Forms</a>
@@ -37,7 +32,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 
     <tr>
-        <td>10:15 - 10:30</td>
         <td>Introduce Group Project</td>
         <td>
             <a href="lectures/group_project"> Lecture Guide: Social Media Recreation Project</a>
@@ -47,7 +41,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 
     <tr>
-        <td>10:30 - 11:30</td>
         <td>Group Project and Labs</td>
         <td>
             Students will setup and build out their Social Media project. By lunch they should have a form that creates a new instance of their content. <br>
@@ -62,14 +55,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>11:30 - 12:30</td>
-        <td>Lunch</td>
-        <td>
-           Eat Food
-        </td>
-    </tr>
-    <tr>
-        <td>12:30 - 1:30</td>
         <td>Intro to SQL and Databases</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-ruby2-teachers-guide-mysql-setup"> Teacher Guide Setup MySQL</a></br>
@@ -78,21 +63,12 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>1:30 - 2:00</td>
-        <td>Improv</td>
-        <td>
-            <a href="https://github.com/learn-co-curriculum/tf-improv-games"> Improv Games</a>
-        </td>
-    </tr>
-    <tr>
-        <td>2:00 - 2:50</td>
         <td>Labs</td>
         <td>
             Work on SQL Challenge/Group Project/Labs from before
         </td>
     </tr>
     <tr>
-        <td>2:50 - 3:00</td>
         <td>Wrap Up</td>
         <td>
             Tell kids they are awesome.</br>
